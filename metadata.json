@@ -1,0 +1,5 @@
+{
+  "name": "Công cụ tạo CV và Syllabus",
+  "description": "A comprehensive platform for engineering program accreditation management, featuring strategic alignment, curriculum mapping, interactive flowcharts, faculty portfolios, and AI-driven quality assurance via Gemini.",
+  "requestFramePermissions": []
+}
